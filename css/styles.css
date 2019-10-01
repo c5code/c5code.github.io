@@ -1,0 +1,13 @@
+body {
+	background-color: #C7FCD7 !important;
+}
+
+#content {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#content > img {
+	padding-top: 20%;
+	padding-left: 35%;
+}
