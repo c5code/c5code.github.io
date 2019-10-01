@@ -1,0 +1,14 @@
+body {
+	background-color: #C7FCD7 !important;
+}
+
+#content {
+	margin-top: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: white !important;
+}
+
+#content > img {
+	margin-left: 36%;
+}
