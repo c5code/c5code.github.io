@@ -1,7 +1,7 @@
 # [c5code.github.io](https://c5code.github.io/)
 
 Example code on how to add the "add to cart" button
-
+		
 		<button
 			class="snipcart-add-item"
 		    data-item-id="1"
